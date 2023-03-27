@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://raw.githubusercontent.com/SmylerMC/terramap/master/images/terramap_logo-x256.png" width=200>
   <h1>This is an experimental 1.18.2 fabric fork of the Terramap Mod. Please </h1>
   <h1>The following information has been copied from the Terramap Mod, created by SmylerMC</h1>
 
